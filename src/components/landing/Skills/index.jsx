@@ -23,8 +23,8 @@ export const Skills = () => (
           knowledge in Javascript, ReactJs, HTML, CSS, UI frameworks, Ajax, axios.
         </p>
         <p>
-          Besides tech, I love to play basketball, go to the gym and read. I’d be in the gym or in front my pc than in
-          movie theater or something like that.
+          Beside tech, I love to play basketball, go to the gym and read. I’d rather be in the gym or in front my pc
+          than in movie theater or something like that.
         </p>
         <p>Want to contact me or work with me? Scroll down to find out how to do it.</p>
         <Button as={AnchorLink} href="#contact">

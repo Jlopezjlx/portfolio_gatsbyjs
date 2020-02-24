@@ -11,6 +11,16 @@ export const Wrapper = styled.div`
   }
 `;
 
+export const ContactContainer = styled.div`
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+
+  h6 {
+    color: #0074d9;
+  }
+`;
+
 export const Details = styled.div`
   flex: 1;
   padding-right: 2rem;
