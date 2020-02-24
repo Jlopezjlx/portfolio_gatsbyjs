@@ -56,6 +56,7 @@ export const Item = styled.div`
 
   p {
     color: #707070;
+    font-size: 15px;
   }
 `;
 

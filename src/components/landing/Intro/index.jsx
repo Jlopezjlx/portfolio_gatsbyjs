@@ -10,10 +10,10 @@ export const Intro = () => (
     <Header />
     <IntroWrapper as={Container}>
       <Details>
-        <h1>Hi There!</h1>
-        <h4>I’m Jairo Lopez and I’m a QA Engineer & Web Developer!</h4>
+        <h1>I can deliver the best QA analysis for your projects.</h1>
+        <h4>I’m Jairo Lopez. QA Engineer & Web Developer!</h4>
         <Button as={AnchorLink} href="#contact">
-          Contact me
+          Tell me about your project!
         </Button>
       </Details>
       <Thumbnail>

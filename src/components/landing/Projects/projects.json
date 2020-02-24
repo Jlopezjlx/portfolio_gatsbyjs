@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Web Automation using POM",
+        "description": {
+            "details": "Automation test framework using POM and selenium. This is a maintainable framework to be used in web automation, you can easily configure the browser, data and all configs you need to be able to run all your test in a faster way. ",
+            "stack": "Created using: Selenium, Python, pytest, unitest, allure."
+        },
+        "url": "https://github.com/Jlopezjlx/Politic-Center"
+    },
+    {
+        "title": "Mobile Automation with OxygenHQ",
+        "description": {
+            "details": "This automation framework was make from scratch with OxygenHQ and Appium using a Android device.",
+            "stack": "Created using: OxygenHQ, JavaScript, Appium."
+        },
+        "url": "https://github.com/Jlopezjlx/mobile_automation_oxygenhq"
+    }
+]
