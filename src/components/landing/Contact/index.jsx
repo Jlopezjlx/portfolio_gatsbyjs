@@ -17,7 +17,12 @@ export const Contact = () => (
         <a key="gmail" href="mailto:jairolopez0072@gmail.com" target="_blank" rel="noopener noreferrer">
           <img width="50" src={gmail} alt="gmail" />
         </a>
-        <a key="linkedin" href="https://www.google.com" target="_blank" rel="noopener noreferrer">
+        <a
+          key="linkedin"
+          href="https://www.linkedin.com/in/jairo-lopez-058a08181/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <img width="40" src={linkedin} alt="linkedin" />
         </a>
         <a key="github" href="https://github.com/Jlopezjlx" target="_blank" rel="noopener noreferrer">
