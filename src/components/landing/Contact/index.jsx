@@ -14,7 +14,7 @@ export const Contact = () => (
         You can contact me anywhere in the world, but to keep it simple and fast, I will let this options for you 🙌:
       </p>
       <ContactContainer>
-        <a key="gmail" href="mailto:jairolopez0072@gmail.com" target="_blank" rel="noopener noreferrer">
+        <a key="gmail" href="mailto:contact@jairolopez.tech" target="_blank" rel="noopener noreferrer">
           <img width="50" src={gmail} alt="gmail" />
         </a>
         <a
