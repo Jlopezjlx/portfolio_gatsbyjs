@@ -4,7 +4,7 @@ module.exports = {
   author: 'Jairo Lopez',
   url: '',
   legalName: 'Jairo Lopez',
-  defaultDescription: 'I’m Jairo and I’m a QA Engineer & Web Developer!',
+  defaultDescription: 'I’m Jairo. QA Engineer & Web Developer!',
   socialLinks: {
     twitter: '',
     github: 'https://github.com/Jlopezjlx',
