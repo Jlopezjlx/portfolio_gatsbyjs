@@ -3,6 +3,7 @@ import { Container } from 'components/common';
 import contact from 'assets/illustrations/contact.svg';
 import { Wrapper, Details, Thumbnail } from './styles';
 import ContactForm from './ContactForm';
+// import icon from '../../../../static/icons/icons8-gmail.sgv';
 
 export const Contact = () => (
   <Wrapper as={Container} id="contact">

@@ -28,7 +28,7 @@ export const Skills = () => (
         </p>
         <p>Want to contact me or work with me? Scroll down to find out how to do it.</p>
         <Button as={AnchorLink} href="#contact">
-          Hire me
+          Contact me
         </Button>
       </Details>
     </SkillsWrapper>
