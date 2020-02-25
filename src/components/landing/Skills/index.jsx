@@ -1,6 +1,6 @@
 import React from 'react';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
-import { Container } from 'components/common';
+import { Container, Button } from 'components/common';
 import dev from 'assets/illustrations/skills.svg';
 import { Wrapper, SkillsWrapper, Details, Thumbnail } from './styles';
 
@@ -27,6 +27,9 @@ export const Skills = () => (
           than in movie theater or something like that.
         </p>
         <p>Want to contact me or work with me? Scroll down to find out how to do it.</p>
+        <a href="https://owndatajlx.s3.amazonaws.com/CV/Jairo+Lopez.pdf">
+          <Button as="download_cv">Read resume</Button>
+        </a>
       </Details>
     </SkillsWrapper>
   </Wrapper>
