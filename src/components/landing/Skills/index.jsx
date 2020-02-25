@@ -27,7 +27,7 @@ export const Skills = () => (
           than in movie theater or something like that.
         </p>
         <p>Want to contact me or work with me? Scroll down to find out how to do it.</p>
-        <a href="https://owndatajlx.s3.amazonaws.com/CV/Jairo+Lopez.pdf">
+        <a href="https://owndatajlx.s3.amazonaws.com/CV/Jairo+Lopez.pdf" target="_blank" rel="noreferrer noopener">
           <Button as="download_cv">Read resume</Button>
         </a>
       </Details>
