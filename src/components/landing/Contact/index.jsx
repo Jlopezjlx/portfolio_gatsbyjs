@@ -11,7 +11,7 @@ export const Contact = () => (
     <Details>
       <h1>Let's work Together!</h1>
       <p>
-        You can contact me anywhere in the world, but to keep it simple and fast, I will let this options for you 🙌:
+        You can contact me anywhere in the world, but to keep it simple and fast, I will let these options for you 🙌:
       </p>
       <ContactContainer>
         <a key="gmail" href="mailto:contact@jairolopez.tech" target="_blank" rel="noopener noreferrer">
